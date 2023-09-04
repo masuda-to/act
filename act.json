@@ -1,4 +1,5 @@
 {
   "sokosys":true,
-  "vba":true
+  "vba":true,
+  "test":false
 }
